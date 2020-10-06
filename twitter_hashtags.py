@@ -14,10 +14,10 @@ import numpy as np
 import pandas as pd
 
 #Twitter API credentials
-consumer_key = "bEObJzz6VCcZjXcXRTp4vY9Mz"
-consumer_secret = "iSRyTC2JnQtOa4gWV5SBm3DNjbeY0NySKSHOCy8DZNFZ0vcmoD"
-access_key = "1573711369-mmSyRQV8kON83heeW7KebqCAfkJ5a1UGz7P6gCA"
-access_secret = "O3KADJDjTwNLS2PtiguJ6f3VIxMYb5mz9aLudVCYsvDvN"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 def get_all_tweets(screen_name):
     #Twitter only allows access to a users most recent 3240 tweets
